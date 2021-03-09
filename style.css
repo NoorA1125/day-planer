@@ -14,7 +14,7 @@ body {
 
 } */
 textarea{
-  background: grey;
+  background:#eeeee4;
   height: 80px;
   border: none;
   resize: none;
@@ -46,7 +46,6 @@ textarea{
   height: 80px;
   border-top: 1px solid white;
   margin-bottom: 10px;
-  align-items: center;
 }
 
 .hour {
@@ -76,8 +75,9 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: #154c79;
   color: white;
+  height: 80px;
 }
 
 .saveBtn i:hover {
