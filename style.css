@@ -4,15 +4,15 @@ body {
   line-height: 1;
 }
 
-#hour-10, #hour-11, #hour-12 {
-  margin-right: -10px;
+/* #hour-10, #hour-11, #hour-12 {
+  margin-right: -5px;
   margin-left: -19px;
 }
 
 #hour-10 button, #hour-11 button, #hour-12 button {
   margin-right: -5px;
 
-}
+} */
 textarea{
   background: grey;
   height: 80px;
@@ -46,6 +46,7 @@ textarea{
   height: 80px;
   border-top: 1px solid white;
   margin-bottom: 10px;
+  align-items: center;
 }
 
 .hour {
@@ -53,6 +54,7 @@ textarea{
   color: #000000;
   border-top: 1px dashed #000000;
   align-items: center;
+  width: 70px;
 }
 
 .past {
